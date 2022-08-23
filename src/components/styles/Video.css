@@ -1,0 +1,29 @@
+.Video{
+    text-align: center;
+    /* background-image: linear-gradient( #020e1f,#0a1e3b);   */
+    background: rgb(0, 212, 255);
+        background: linear-gradient(0deg, rgba(0, 212, 255, 1) 0%, rgba(41, 35, 144, 1) 61%, rgba(12, 10, 51, 1) 100%, rgba(0, 212, 255, 1) 100%);
+    position: relative; 
+    padding-bottom: 350px;
+}
+
+#one{
+    position: absolute;
+    transform: rotate(20deg);
+    right: 200px;
+    z-index: 0;
+}
+#two {
+    position: absolute;
+    left: 200px;
+    transform: rotate(340deg);
+    z-index: 0;
+}
+
+
+.phone {
+    
+    border-radius: 20px;
+    background-color: white;
+    
+}

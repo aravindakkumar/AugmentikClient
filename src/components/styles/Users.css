@@ -1,0 +1,32 @@
+.Users{
+    padding: 5% 10%;
+    background: rgb(232, 229, 232);
+        background: linear-gradient(180deg, rgba(232, 229, 232, 1) 0%, rgba(238, 235, 238, 1) 5%, rgba(13, 13, 12, 1) 100%);
+        text-align: center;
+}
+
+.Users h1,h3{
+    margin: 20px ;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+form input{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 40%;
+    padding: 10px;
+}
+form button{
+    margin: 20px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+form button:hover{
+    color: black;
+        background-color: white;
+}

@@ -1,0 +1,79 @@
+.wire{
+    font-family: sans-serif;
+    font-size: large;
+    padding: 8% 10% 7%;
+background: rgb(18, 17, 18);
+    background: linear-gradient(180deg, rgba(18, 17, 18, 1) 20%, rgba(214, 27, 201, 1) 51%, rgba(13, 13, 12, 1) 81%);
+    color: white;
+    position: relative;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+.end{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+.image{
+    text-align: center;
+    margin: 50px 0 150px;
+}
+.image img{
+   margin-top: 100px;
+    border-radius: 10px;
+}
+
+.phones{
+    display: flex;
+    justify-content: space-between;
+}
+
+#ph1{
+transform: rotate(340deg);
+}
+#ph2{
+    transform: rotate(20deg);
+}
+
+
+
+
+
+
+.dotted{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: x-large;
+    border: 1px dashed white;
+    margin: 0 auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+
+
+
+
+.dotted h1{
+    margin: 0
+}
+.dot {
+    height: 100px;
+    width: 100px;
+   
+    border: 1px dashed white;
+    border-radius: 50%;
+    display: inline-block;
+    
+}
+.dotted2{
+    text-align: center;
+    padding: 70px 0;
+    border: 0 1px 0 1px dashed white;
+}

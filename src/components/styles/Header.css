@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+    color: white;
+    background-image: linear-gradient(to right, #020f22 , #1f406b , #020f22,#1f406b ,#020f22 );   
+    padding: 50px 0 70px 0;  
+    /* background: rgb(3, 0, 51);
+        background: linear-gradient(284deg, rgba(3, 0, 51, 1) 25%, rgba(41, 35, 144, 1) 48%, rgba(0, 212, 255, 1) 100%); */
+
+        
+}
+CE6FC1
+
+.writings{
+    color: white;
+    text-align: right;
+}

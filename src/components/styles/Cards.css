@@ -1,0 +1,27 @@
+.para{
+    text-align: center;
+}
+.Cards{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+   
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+span{
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+}
+p{
+    margin: 0;
+}
+.main{
+    padding: 100px 50px 70px;
+    background: rgb(18, 17, 18);
+        background: linear-gradient(90deg, rgba(18, 17, 18, 1) 20%, rgba(214, 27, 201, 1) 51%, rgba(13, 13, 12, 1) 81%);
+}
